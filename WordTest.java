@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * @author 吴博
+ * @author demo
  * @date 2022/08/10 18:03
  **/
 public class WordTest {
